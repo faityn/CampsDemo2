@@ -42,7 +42,7 @@ export const camps: Camp[] = [
       "https://www.openstreetmap.org/export/embed.html?bbox=103.55%2C47.15%2C104.10%2C47.55&layer=mapnik&marker=47.35%2C103.82",
     mapCenter: "47.35,103.82",
     contactEmail: "info@hoyorzagal.mn",
-    contactPhone: "99984593",
+    contactPhone: "+976 99984593",
     experience:
       "A peaceful countryside escape surrounded by open steppe, fresh air and authentic Mongolian hospitality.",
     image: "/images/12.jpg",
@@ -84,7 +84,7 @@ export const camps: Camp[] = [
       "https://www.openstreetmap.org/export/embed.html?bbox=107.20%2C47.80%2C107.60%2C48.10&layer=mapnik&marker=47.877372%2C107.430132",
     mapCenter: "47.877372,107.430132",
     contactEmail: "info@hoyorzagal.mn",
-    contactPhone: "99098720",
+    contactPhone: "+976 99098720",
     experience:
       "A refined ger stay in the dramatic landscapes of Gorkhi–Terelj National Park, close to nature and the city.",
     image: "/images/15.jpg",
@@ -124,7 +124,7 @@ export const camps: Camp[] = [
       "https://www.openstreetmap.org/export/embed.html?bbox=107.20%2C47.80%2C107.60%2C48.10&layer=mapnik&marker=47.8811077%2C107.4284165",
     mapCenter: "47.8811077,107.4284165",
     contactEmail: "info@hoyorzagal.mn",
-    contactPhone: "99096714",
+    contactPhone: "+976 99096714",
     experience:
       "An immersive nature retreat where modern comfort meets granite mountains, forests and the wide Mongolian sky.",
     image: "/images/11.jpg",
